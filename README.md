@@ -42,14 +42,14 @@ lib/
 
 ## 🛠️ How to Run
 
-1. **Clone or unzip the project.**
-2. Open the folder in VS Code.
-3. In the terminal, run:
+*
+1. Open the folder in VS Code.
+2. In the terminal, run:
    ```bash
    flutter pub get
    flutter run
    ```
-4. Connect your iPhone or use an iOS simulator.
+3. Connect your iPhone or use an iOS simulator.
 
 ---
 
